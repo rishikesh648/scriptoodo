@@ -59,7 +59,7 @@ public class App {
         pencil.click();
         Runtime.getRuntime().exec("C:\\Users\\rishikesh.rajesh\\Desktop\\FileUpload4.exe");
         WebElement itemcode=driver.findElement(By.xpath("//*[@id=\"default_code_0\"]"));
-        itemcode.sendKeys("ppsu991a");
+        itemcode.sendKeys("ppsss91a");
         WebElement category=driver.findElement(By.xpath("//*[@id=\"pos_categ_ids_0\"]"));
         category.click();
         WebElement categorydrp=driver.findElement(By.xpath("//*[@id=\"pos_categ_ids_0_0_3\"]"));
